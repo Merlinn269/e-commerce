@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="corner_radius_item">20dp</dimen>
+    <dimen name="image_size">100dp</dimen>
+    <dimen name="range">20dp</dimen>
+    <dimen name="margin">24dp</dimen>
+</resources>

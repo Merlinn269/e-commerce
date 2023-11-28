@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="fontStyleBold">
+        <item name="android:textColor">@color/charcoal</item>
+        <item name="fontFamily">@font/nunito_extrabold</item>
+    </style>
+
+    <style name="fontStyleRegular">
+        <item name="android:textColor">@color/charcoal</item>
+        <item name="fontFamily">@font/nunito</item>
+    </style>
+
+    <style name="fontStyleMedium">
+        <item name="android:textColor">@color/charcoal</item>
+        <item name="fontFamily">@font/nunito_bold</item>
+    </style>
+    <style name="imageStyle">
+        <item name="cornerSize">@dimen/corner_radius_item</item>
+    </style>
+    <style name="imageStyleProduct">
+        <item name="cornerSizeTopLeft">@dimen/corner_radius_item</item>
+        <item name="cornerSizeTopRight">@dimen/corner_radius_item</item>
+    </style>
+
+</resources>
